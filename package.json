@@ -1,0 +1,25 @@
+{
+  "name": "bosshead",
+  "version": "0.0.0",
+  "description": "“报告老板” 项目进度统计工具",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gastrodia/bosshead.git"
+  },
+  "keywords": [
+    "boss",
+    "项目管理",
+    "porject",
+    "ma"
+  ],
+  "author": "gastrodia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gastrodia/bosshead/issues"
+  },
+  "homepage": "https://github.com/gastrodia/bosshead"
+}
